@@ -61,6 +61,3 @@ This starts the CLI version of PieChat, managing the sending/receiving of messag
 
 The application uses hardcoded user and contact details for simplicity. These can be found and modified in the `contacts` dictionary within both script files.
 
-## Contributing
-
-Contributions to PieChat are welcome. Please ensure to follow the existing coding style and add comments where necessary. Create a pull request with a description of your changes or improvements.
